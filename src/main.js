@@ -8,7 +8,7 @@ import SimpleLightbox from 'simplelightbox';
 // Додатковий імпорт стилів
 import 'simplelightbox/dist/simple-lightbox.min.css';
 
-const API_KEY = '41949985-8da78252305a4c2e980ced1f3';
+const API_KEY = '11329962-6436ba51ddb58bb96deed169a';
 const searchForm = document.querySelector('.search-form');
 const gallery = document.querySelector('.gallery');
 const searchInput = document.querySelector('.search-input');
